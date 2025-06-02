@@ -1,4 +1,4 @@
-# Persian ASR & TTS
+# Persian (Farsi) ASR & TTS
 
 Android Persian speech recognition &amp; text to speech libs
 
